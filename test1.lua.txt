@@ -124,8 +124,8 @@ local v48 = loadstring(game:HttpGetAsync('https://raw.githubusercontent.com/Actu
 loadstring(game:HttpGetAsync('https://raw.githubusercontent.com/ActualMasterOogway/Fluent-Renewed/master/Addons/InterfaceManager.luau'))()
 
 local u49 = u47:CreateWindow({
-    Title = game.Players.LocalPlayer.DisplayName .. ' Private Script',
-    SubTitle = 'by RuRu',
+    Title = game.Players.LocalPlayer.DisplayName .. ' RURU SHIT',
+    SubTitle = 'FUCKED BY AREMIS',
     TabWidth = 125,
     Size = UDim2.fromOffset(830, 525),
     Resize = true,
